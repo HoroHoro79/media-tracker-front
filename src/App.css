@@ -40,3 +40,20 @@
 .read-the-docs {
   color: #888;
 }
+
+/* app.css - estilos para el contenido después del login */
+.app-welcome {
+  padding: 2rem;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.app-welcome h1 {
+  color: #333;
+  margin-bottom: 1rem;
+}
+
+.app-welcome p {
+  color: #555;
+  font-size: 1rem;
+}
